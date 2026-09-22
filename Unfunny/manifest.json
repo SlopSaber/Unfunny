@@ -5,7 +5,7 @@
   "author": "Kaitlyn",
   "version": "1.0.0",
   "description": "Stops certain plugins from showing unfunny or unwanted content on certain days in the year.",
-  "gameVersion": "1.45.0",
+  "gameVersion": "1.45.1",
   "dependsOn": {
     "BSIPA": "^4.2.2"
   },
